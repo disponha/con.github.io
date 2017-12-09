@@ -26,8 +26,9 @@ layout: default
               </a>
             </h1>
             <p class="meta">
-              {{ post.date | date: "%B %-d, %Y" }}
+              {{ post.date | date: "%d %b %Y" }}
             </p>
+            <!--<time class="post-date" datetime="{{ post.date | date: "%-Y-%m-%d" }}">{{ post.date | date: "%d %b %Y" }}</time>-->
           </header>
           <div class="excerpt">
             {{ post.content | strip_html | truncate: "250" }}
