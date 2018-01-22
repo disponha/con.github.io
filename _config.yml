@@ -1,25 +1,29 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://42con.com"
+url: "https://disponha.com"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: 42con
+  title: Disponha
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   
   gravatar: # Email MD5 hash
-  description: "Investigando gastos públicos" # used by search engines
+  description: "Aprenda Cálculo Diferencial e Integral" # used by search engines
 
   # Header and footer text
   header_text: >
-     <p>Plataforma para verificação de gastos públicos</p>
+     <h1>Você pode aprender Cálculo</h1>
 
      <p>Utilizamos Data Science e Machine Learning para análise dos dados.</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
+<<<<<<< HEAD
    © 42con 2018. Desenvolvido com <a href="https://jekyllrb.com/">Jekyll</a> com <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap. <a href="https://github.com/disponha/42.github.io/blob/master/LICENSE">MIT License.</a>
+=======
+   © Disponha 2018. Desenvolvido com <a href="https://jekyllrb.com/">Jekyll</a> com <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap. <a href="https://github.com/disponha/42.github.io/blob/master/LICENSE">MIT License.</a>
+>>>>>>> 1238f900fe2c42690c034d0dd7046b3ee5cdd457
 
   # Icons
   rss: false
