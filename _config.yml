@@ -19,7 +19,7 @@ theme_settings:
      <p>Utilizamos Data Science e Machine Learning para análise dos dados.</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
-   © 42con 2017. Desenvolvido com <a href="https://jekyllrb.com/">Jekyll</a> com <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap. <a href="https://github.com/disponha/42.github.io/blob/master/LICENSE">MIT License.</a>
+   © 42con 2018. Desenvolvido com <a href="https://jekyllrb.com/">Jekyll</a> com <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap. <a href="https://github.com/disponha/42.github.io/blob/master/LICENSE">MIT License.</a>
 
   # Icons
   rss: false
