@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ninja
+title: precalculo
 img: "assets/img/portfolio/ninja.png"
 date: April, 08 2014
 tags: [Lorem]
@@ -8,5 +8,34 @@ tags: [Lorem]
 
 ![image]({{ site.baseurl }}/{{ page.img }})
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem <a>quia voluptas sit aspernatur</a> aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius <a>modi tempora incidunt</a> ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+> "Não importa o quanto a vida possa ser ruim, sempre existe algo que você pode fazer e triunfar''. Stephen Hawking.
 
+## Estudando Matemática} 
+
+1. Estude a teoria e resolva muitos exercícios. Não se aprende matemática 
+fazendo um ou dois exemplos e nem estudando na véspera da prova;
+
+2. Não faça só os exercícios propostos nas listas, busque mais em outras fontes;
+
+3. Se acostume com a notação utilizada no decorrer do curso. A matemática
+possui uma linguagem própria, por isso, aprenda-a!
+
+
+As Três Regras de Ouro para se dar bem em Matemática:
+
+	
+1. Estude a teoria e faça muitos exercícios;
+2.  Se 1 não for suficiente, estude mais a teoria e faça ainda mais exercícios; 
+
+3.Se 1 e 2 não tiverem o efeito desejado, estude mais a teoria e faça um número monstruosamente grande de exercícios.
+
+
+
+## Sequências
+
+Uma sequência de números reais é uma função que associa cada $$n \in \mathbb{N}$$ a valores reais 
+$$ \left( n\rightarrow x_{n} \right)$$   
+
+
+
+Licenciado sob a Licença Creative Commons - Atribuição-Não Comercial-Compartilhada 4.0 Internacional. Você só pode usar este arquivo em conformidade com a Licença. Você pode obter uma cópia da Licença em [creative](https://creativecommons.org/licenses/by-nc-sa/4.0/). Antes de distribuir, reproduzir ou modificar consulte a licença. Podem estar disponíveis autorizações adicionais às concedidas no âmbito desta licença em [licenca](http://www.disponha.com/licenca.html).
