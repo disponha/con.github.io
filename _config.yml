@@ -14,12 +14,12 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>Plataforma para verificação de gastos públicos</p>
+     <h1>Data Science com Python</p>
 
-     <p>Utilizamos Data Science e Machine Learning para análise dos dados.</p>
-  header_text_feature_image: assets/img/pexels/triangular.jpeg
+     <p>Utilizamos Machine Learning para análise de dados.</p>
+  header_text_feature_image: assets/img/img01.jpg
   footer_text: >
-   42con © 2017. Desenvolvido por <a href="https://jekyllrb.com/">Jekyll</a> com <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap. <a href="https://github.com/disponha/42.github.io/blob/master/LICENSE">MIT License.</a>
+   42con © 2018. Desenvolvido por <a href="https://jekyllrb.com/">Jekyll</a> com <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap. <a href="https://github.com/disponha/42.github.io/blob/master/LICENSE">MIT License.</a>
 
   # Icons
   rss: false
